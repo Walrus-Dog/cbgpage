@@ -1,1 +1,15 @@
 /* unleash hell */
+body {
+    background-color: #242424;
+    color: #e2e2e2;
+}
+
+.cbg-landing {
+    background-image: url(/media/SPOILER_unknown.png);
+    background-size: 100%;
+    height: 100vh;
+}
+
+.cbg-pic {
+    width: 20vw;
+}
